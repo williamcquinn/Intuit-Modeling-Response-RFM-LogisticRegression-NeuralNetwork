@@ -51,16 +51,7 @@ each model
 
 •  What did you learn about the type of businesses that are likely to upgrade? 
  
-6.  Your team should create a short presentation video and submit it through Canvas. The presentation 
-should not last more than 5-10 minutes and should cover your approach to solving the case and 
-your key results. Peer evaluation will used, in part, to evaluate the presentation (10 points). 
-7.  Before noon on the day of class please post the list of IDs you want to mail to Canvas. The 
-assignment write-up should be submitted through GitLab before the start of class as usual. The 
-reason that the list of IDs must be submitted earlier is that I need to compile all the results before 
-class. Compiling the results takes some time so please help me out and stick to the following 
-instructions exactly!  
-Please post a CSV file with only 2 variables 
- 
+  
 Variable “res1” denotes which of these businesses responded to the mailing by purchasing QuickBooks 
 version 3.0 from Intuit Direct. Use the available data to predict which businesses that did not respond to 
 the wave-1 mailing, are most likely to respond to the wave-2 mailing. Note that variables were added, 
